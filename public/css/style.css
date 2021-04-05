@@ -1,0 +1,60 @@
+body {
+    font-size: 14px;
+    line-height: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header {
+    position: relative;
+    text-align: center;
+}
+
+#footer {
+    background-color: #029ef3;
+}
+
+#logo {
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px 10px;
+    font-weight: bold;
+    color: black;
+}
+
+#user-login {
+    top: 1px;
+    right: 10px;
+    position: absolute;
+}
+
+ul#main-menu {
+    background-color: #029ef3;
+    text-align: center;
+}
+
+ul#main-menu li {
+    display: inline-block;
+}
+
+ul#main-menu li a {
+    display: block;
+    padding: 8px 15px;
+    color: #fff;
+}
+
+#content {
+    min-height: 600px;
+    padding: 20px 0px;
+}
+
+#footer {
+    color: #fff;
+    text-align: center;
+    padding: 8px 0px;
+}

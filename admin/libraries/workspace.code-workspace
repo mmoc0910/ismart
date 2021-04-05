@@ -1,0 +1,26 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\fornt-end"
+		},
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\practice"
+		}
+	],
+    "settings": {
+        "compile-hero.disable-compile-files-on-did-save-code": false
+    },
+    "extensions": {
+        "recommendations": [
+            "ecmel.vscode-html-css",
+            "mrmlnc.vscode-apache"
+        ]
+    },
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "rifi2k.format-html-in-php"
+    ]
+}
